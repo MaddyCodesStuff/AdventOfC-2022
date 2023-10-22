@@ -25,11 +25,11 @@ int main()
 					case 'A':
 						printf("Draw +3\n");
 						score += 3;
-					break;
+						break;
 					case 'C':
 						printf("Won!, +6\n");
 						score += 6;
-					break;
+						break;
 				}
 			break;
 			case 'Y':
